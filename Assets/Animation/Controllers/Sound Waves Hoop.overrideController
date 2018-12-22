@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Sound Waves Hoop
+  m_Controller: {fileID: 9100000, guid: ba32028566cbf8046b220f79952eb6fa, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: f01d19d3738ca094c8590eec7a93362a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d3141b30ba4b94f42b144365f7392e01, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9e782ef398e511946b89b50c289c1db7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 41109f31e95ee364f8f894409a8b1c38, type: 2}
